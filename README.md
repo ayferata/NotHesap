@@ -58,4 +58,5 @@ class Ders {
         return 0.4 * vizeNotu + 0.6 * finalNotu;
                                                            
     }
+                                                           
 }
