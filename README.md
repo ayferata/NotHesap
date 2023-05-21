@@ -26,7 +26,7 @@ public class NotHesaplama {
 
         System.out.println("Ders Notları:");
         for (Ders ders : dersListesi) {
-            System.out.println(ders.getDersAdi() + ": " + ders.getOrtalama());
+            System.out.println(ders.getDersAdi() + ": " + ders.getOrtalama() );
         }
     }
 }
